@@ -4,7 +4,7 @@ let anything : any;
 
 anything = 'next';
 
-(anything as string).
+(anything as string)
 
 const kgToGm =(value : string | number) : string | number | undefined =>{
     if(typeof value === 'string'){
